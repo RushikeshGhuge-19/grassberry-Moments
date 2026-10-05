@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+
+# Local secrets — never commit a real Places API key
+.env
+.env.local
+
+# Mappls native credential files
+mappls-credentials/
+android/app/*.a.olf
+android/app/*.a.conf
+ios/*.i.olf
+ios/*.i.conf
