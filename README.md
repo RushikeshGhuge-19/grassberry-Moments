@@ -2,9 +2,7 @@
 
 Real app. Runs on your own Android or iPhone via Expo Go. No Mac, no App
 Store, no backend server — the whole engine (state machine, confidence
-scoring, filters, ranking, decision trace) runs on-device, ported from
-Rajat's PRD formulas.
-
+scoring, filters, ranking, decision trace) runs on-device.
 ## Run it (first time)
 
 ```
